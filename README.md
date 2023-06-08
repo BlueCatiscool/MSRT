@@ -1,4 +1,4 @@
-## Malicious Software Removal Tool (SSRT)
+## Malicious Software Removal Tool (MSRT)
 
 ### How to run:
 - Download the script (in the folder "versions")
