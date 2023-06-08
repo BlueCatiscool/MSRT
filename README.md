@@ -1,7 +1,7 @@
 ## Malicious Software Removal Tool (MSRT)
 
 ### How to run:
-- Download the script (in the folder "versions")
+- Download the script (in releases in the side bar of GitHub)
 - Right-click it and select "Run as Administrator"
 - And you're done!
 
