@@ -8,5 +8,3 @@
 A log is saved during the process in C:\Program Files\MSRT\logs
 
 Feel free to look at the code in case you want to explore the script.
-
-### NOTE: it's not recommended to run any applications while the tool is scanning your device as it could slow down the operation by a bit or a lot.
